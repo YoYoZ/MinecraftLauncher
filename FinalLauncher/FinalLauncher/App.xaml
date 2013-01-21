@@ -65,13 +65,13 @@
                 </Setter.Value>
             </Setter>
         </Style>
-        <BitmapImage x:Key="MyImageSource" UriSource="C:\Users\Anton\documents\visual studio 2010\Projects\FinalLauncher\FinalLauncher\background.png" />
-        <BitmapImage x:Key="close_0" UriSource="C:\Users\Anton\documents\visual studio 2010\Projects\FinalLauncher\FinalLauncher\Resources\closeBut_0.png" />
-        <BitmapImage x:Key="close_1" UriSource="C:\Users\Anton\documents\visual studio 2010\Projects\FinalLauncher\FinalLauncher\Resources\closeBut_1.png" />
-        <BitmapImage x:Key="hide_0" UriSource="C:\Users\Anton\documents\visual studio 2010\Projects\FinalLauncher\FinalLauncher\Resources\hideBut_0.png" />
-        <BitmapImage x:Key="hide_1" UriSource="C:\Users\Anton\documents\visual studio 2010\Projects\FinalLauncher\FinalLauncher\Resources\hideBut_1.png" />
-        <BitmapImage x:Key="repair_0" UriSource="C:\Users\Anton\documents\visual studio 2010\Projects\FinalLauncher\FinalLauncher\Resources\repairBut_0.png" />
-        <BitmapImage x:Key="repair_1" UriSource="C:\Users\Anton\documents\visual studio 2010\Projects\FinalLauncher\FinalLauncher\Resources\repairBut_1.png" />
+        <BitmapImage x:Key="MyImageSource" UriSource="..\background.png" />
+        <BitmapImage x:Key="close_0" UriSource="..\Resources\closeBut_0.png" />
+        <BitmapImage x:Key="close_1" UriSource="..\Resources\closeBut_1.png" />
+        <BitmapImage x:Key="hide_0" UriSource="..\Resources\hideBut_0.png" />
+        <BitmapImage x:Key="hide_1" UriSource="..\Resources\hideBut_1.png" />
+        <BitmapImage x:Key="repair_0" UriSource="..\Resources\repairBut_0.png" />
+        <BitmapImage x:Key="repair_1" UriSource="..\Resources\repairBut_1.png" />
         
     </Application.Resources>
 </Application>
